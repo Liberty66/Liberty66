@@ -1,8 +1,10 @@
 # Hi, I'm Mari 👋
 
-I'm a junior software developer with a background in psychology who enjoys building products that solve real problems.
+I'm a founder and product engineer with a background in psychology.
 
-I turn ideas into working software by combining software engineering with AI-assisted development. Recently I've been building AI-powered web applications with TypeScript, Next.js, and Cloudflare while continuously strengthening my backend development skills.
+I build products end-to-end — from identifying the problem and shaping the product to writing code, integrating AI, testing, deploying, and improving the product after launch.
+
+My current work focuses on AI-powered web applications and mental health technology using TypeScript, Next.js, Cloudflare, and modern AI tools.
 
 ## 🚀 Featured Projects
 
